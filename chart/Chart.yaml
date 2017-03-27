@@ -1,0 +1,13 @@
+name: orel-client
+home: https://github.com/dreyk/k-client-demo
+version: 1.0.0
+description: Misha Orel Client demo
+sources:
+  - https://github.com/dreyk/k-client-demo
+maintainers:
+  - name: Misha Orel
+keywords:
+  - Orel
+  - Misha
+  - Python
+icon: https://static.apkupdate.com/images/cover/jp.ubi.common.http.server.png

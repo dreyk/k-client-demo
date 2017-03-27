@@ -1,0 +1,10 @@
+Name: k-demo-client
+Component: demo-client
+Replicas: 1
+CpuRequests: "25m"
+MemoryRequests: "64Mi"
+CpuLimits: "100m"
+MemoryLimits: "64Mi"
+Image:
+  Name: dreyk/k-client-demo
+  Tag: latest
